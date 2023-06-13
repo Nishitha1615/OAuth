@@ -1,0 +1,1 @@
+export const api='https://password-reset-backend-uukz.onrender.com';
